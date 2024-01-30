@@ -14,7 +14,7 @@ The objective of this analysis is to identify such ball-progressing midfielders 
 
 - [Jupyter Notebook](pass_reception_and_transition.ipynb) for the analysis
 - [Process Walk-through Report](Process%20Walk-through%20Report.pdf)
-- [Long Form Article](Long%20Form%20Article.pdf)
+- [Long-form Article](Long-form%20Article.pdf)
 
 <br>
 
