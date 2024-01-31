@@ -13,8 +13,9 @@ The objective of this analysis is to identify such ball-progressing midfielders 
 ## Important Links
 
 - [Jupyter Notebook](pass_reception_and_transition.ipynb) for the analysis
-- [Process Walk-through Report](Process%20Walk-through%20Report.pdf) - a 1000 words summary focusing specifically on the logic and steps used to complete the analysis (for more information, please check out the Jupyter Notebook or the Long-form Article)
+- [Canva Presentation](https://www.canva.com/design/DAF7e2Rj-Xg/CuvZXUSayyfHOY7mlcleuA/view?utm_content=DAF7e2Rj-Xg&utm_campaign=designshare&utm_medium=link&utm_source=editor) for the analysis
 - [Long-form Article](Long-form%20Article.pdf) - a comprehensive article providing in-depth insights and detailed information derived from the analysis
+- [Process Walk-through Report](Process%20Walk-through%20Report.pdf) - a 1000 words summary focusing specifically on the logic and steps used to complete the analysis (for more information, please check out the Jupyter Notebook or the Long-form Article)
 
 _(**NOTE:** Please download the PDF files for the **Process Walk-through Report** and **Long-form Article** before reading them, instead of viewing them here on GitHub, so that you can click on the links present in these documents.)_
 
