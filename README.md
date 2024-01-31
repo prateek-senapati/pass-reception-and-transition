@@ -1,4 +1,4 @@
-# Pass Reception and Transition
+# Pass Reception and Transition: Identifying Ball-Progressing Midfielders
 
 One of the key skills of a midfielder is the ability to drop back into her defensive half to receive passes and subsequently transition the play to her attacking third via ball-progressing [sequences](https://www.statsperform.com/resource/introducing-a-possessions-framework/). Transitions like these can increase a team's chances of scoring more goals and winning games. Therefore, it's essential for teams to have midfielders who can execute these transitions effectively. 
 
