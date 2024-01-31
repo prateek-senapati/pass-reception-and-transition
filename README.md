@@ -23,4 +23,4 @@ _(**NOTE:** Please download the PDF files for the **Process Walk-through Report*
 
 ## Acknowledgement
 
-Thanks to [StatsBomb](https://statsbomb.com/) and [FBref](https://fbref.com/en/) for making their data freely available for public use without which this analysis would not have been possible!
+Thanks to [StatsBomb](https://statsbomb.com/) and [FBref](https://fbref.com/en/) for making their data freely available for public use without which this analysis would not have been possible.
